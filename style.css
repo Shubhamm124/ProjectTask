@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    margin: auto;
+    font-size: 13px;
+}
+img{
+    align-items: center;
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 850px;
+}
+#para{
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#demo{
+    font-weight: 550;
+}
+
+.content {
+    max-width: 900px;
+    margin: auto;
+  }
+
+  .button-class {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    border-radius: 4px;
+    display: inline-block;
+}
